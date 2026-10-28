@@ -36,4 +36,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://rickymamansandbox.github.io/sitemap.xml
+Sitemap: https://bahtera.asia/sitemap.xml

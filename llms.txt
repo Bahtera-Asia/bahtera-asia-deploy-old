@@ -9,61 +9,62 @@ Key facts:
 - Where: Indonesia, Malaysia, Singapore, India, Philippines, with a founding team and local regional partners.
 - Team: Ricky Saif (corporate education), Faizal Abdillah (banking background), Banitama (software development). The team has used Bitcoin since 2013 and accumulated it since 2017.
 - Approach: education first, then a documented brief, policy and custody design, and a handover with named owners. Legal and tax conclusions stay with the client's own qualified advisers.
-- Website: https://rickymamansandbox.github.io/
+- Website: https://bahtera.asia/
 
 ## Main pages
 
-- [Home](https://rickymamansandbox.github.io/): why companies are considering a Bitcoin treasury and how Bahtera's implementation process works
-- [About](https://rickymamansandbox.github.io/about/): Meet Bahtera, a team bringing together education, banking experience, and software development to support Bitcoin treasury implementation.
-- [Services](https://rickymamansandbox.github.io/services/): Bitcoin treasury education and implementation support, covering policy design, custody architecture, regulatory coordination, and reporting.
-- [Team](https://rickymamansandbox.github.io/team/): Meet the educators and practitioners behind Bahtera.
-- [Contact](https://rickymamansandbox.github.io/contact/): Prepare a conversation with Bahtera about company treasury, executive education, or executive education.
+- [Home](https://bahtera.asia/): why companies are considering a Bitcoin treasury and how Bahtera's implementation process works
+- [About](https://bahtera.asia/about/): Meet Bahtera, a team bringing together education, banking experience, and software development to support Bitcoin treasury implementation.
+- [Services](https://bahtera.asia/services/): Bitcoin treasury education and implementation support, covering policy design, custody architecture, regulatory coordination, and reporting.
+- [Team](https://bahtera.asia/team/): Meet the educators and practitioners behind Bahtera.
+- [Contact](https://bahtera.asia/contact/): Prepare a conversation with Bahtera about company treasury, executive education, or executive education.
 
 ## Services
 
-- [Treasury Policy Design](https://rickymamansandbox.github.io/services/policy_design/): A documented framework for treasury decisions, responsibilities, and internal review.
-- [Custody Architecture](https://rickymamansandbox.github.io/services/custody_architecture/): Custody planning that connects technical design with everyday responsibilities.
-- [Accounting & Audit Support](https://rickymamansandbox.github.io/services/accounting_audit/): Operational records and reporting workflows designed for review with your finance team.
-- [Regulatory & Tax Guidance](https://rickymamansandbox.github.io/services/regulatory_guidance/): A structured way to identify questions and coordinate with your legal and tax advisers.
+- [Treasury Policy Design](https://bahtera.asia/services/policy_design/): A documented framework for treasury decisions, responsibilities, and internal review.
+- [Custody Architecture](https://bahtera.asia/services/custody_architecture/): Custody planning that connects technical design with everyday responsibilities.
+- [Accounting & Audit Support](https://bahtera.asia/services/accounting_audit/): Operational records and reporting workflows designed for review with your finance team.
+- [Regulatory & Tax Guidance](https://bahtera.asia/services/regulatory_guidance/): A structured way to identify questions and coordinate with your legal and tax advisers.
 
 ## Team
 
-- [Ricky Saif](https://rickymamansandbox.github.io/team/ricky/): Corporate education
-- [Faizal Abdillah](https://rickymamansandbox.github.io/team/faizal/): Banking background
-- [Banitama](https://rickymamansandbox.github.io/team/banitama/): Software development
-- [Arjun Mehta](https://rickymamansandbox.github.io/team/arjun-mehta/): Regional partner, India (regional partner, India)
-- [Maria Santos](https://rickymamansandbox.github.io/team/maria-santos/): Regional partner, Philippines (regional partner, Philippines)
-- [Lim Wei Jie](https://rickymamansandbox.github.io/team/lim-wei-jie/): Regional partner, Malaysia (regional partner, Malaysia)
-- [Tan Mei Ling](https://rickymamansandbox.github.io/team/tan-mei-ling/): Regional partner, Singapore (regional partner, Singapore)
+- [Ricky Saif](https://bahtera.asia/team/ricky/): Corporate education
+- [Faizal Abdillah](https://bahtera.asia/team/faizal/): Banking background
+- [Banitama](https://bahtera.asia/team/banitama/): Software development
+- [Dimas](https://bahtera.asia/team/dimas/): Regional partner, Indonesia (regional partner, Indonesia)
+- [Arjun Mehta](https://bahtera.asia/team/arjun-mehta/): Regional partner, India (regional partner, India)
+- [Maria Santos](https://bahtera.asia/team/maria-santos/): Regional partner, Philippines (regional partner, Philippines)
+- [Lim Wei Jie](https://bahtera.asia/team/lim-wei-jie/): Regional partner, Malaysia (regional partner, Malaysia)
+- [Tan Mei Ling](https://bahtera.asia/team/tan-mei-ling/): Regional partner, Singapore (regional partner, Singapore)
 
 ## Guides
 
-- [Bitcoin treasury policy: what to put in it](https://rickymamansandbox.github.io/guides/treasury-policy/): A one-page policy is the control that makes everything else defensible. This guide lists what it should say, with an illustrative template your board and auditors can work from.
-- [Accounting and audit for Bitcoin holdings](https://rickymamansandbox.github.io/guides/accounting-and-audit/): Auditors will ask who controls the asset, how it is valued and how it is disclosed. This guide shows what evidence to prepare so year-end is routine.
-- [Getting board approval: a checklist](https://rickymamansandbox.github.io/guides/board-approval/): Boards approve clear, capped and reversible proposals. This checklist covers the decision paper, the questions directors ask and how to run the meeting.
-- [Running a leadership education session](https://rickymamansandbox.github.io/guides/leadership-session/): A 90-minute session that ends in named owners and next steps. This guide gives the agenda, the questions to collect beforehand and how to close.
-- [Custody options: multisig vs custodian](https://rickymamansandbox.github.io/guides/custody-options/): How your company holds Bitcoin matters more than what it holds. This guide compares self-custody with shared approvals and regulated custodians, and helps you choose for your risk level.
+- [Bitcoin treasury policy: what to put in it](https://bahtera.asia/guides/treasury-policy/): A one-page policy your board can read in five minutes: purpose, allocation limits, buying method, custody, approvals, reporting and review. This guide shows what each section covers and what to decide.
+- [Accounting and audit for Bitcoin holdings](https://bahtera.asia/guides/accounting-and-audit/): What your auditor will ask and what evidence to prepare: control, existence, valuation, accounting treatment and disclosure. A practical guide that leaves conclusions to your auditor.
+- [Getting board approval: a checklist](https://bahtera.asia/guides/board-approval/): Prepare the questions, risks and decision paper a board expects. Five stages, each ending with something written, so approval becomes a normal governance step.
+- [Running a leadership education session](https://bahtera.asia/guides/leadership-session/): Plan a 90-minute session that ends with next steps and named owners. A practical agenda for leaders who need to understand the problem before they decide anything.
+- [Custody options: multisig vs custodian](https://bahtera.asia/guides/custody-options/): How your company holds Bitcoin matters more than what it holds. This guide compares self-custody with shared approvals and regulated custodians, and helps you choose for your risk level.
 
 ## Myth busting: how we respond to common Bitcoin myths
 
-- ["It's too late; Bitcoin is a bubble."](https://rickymamansandbox.github.io/myths/too-late-bubble/): Price and adoption are different questions. A bubble needs a reason to disappear; Bitcoin has a fixed supply and a growing base of holders, which is why the better question is how much risk you can live with, not whether you missed it.
-- ["Inflation is under control; our cash is fine."](https://rickymamansandbox.github.io/myths/inflation-under-control/): Cash loses purchasing power every year even when inflation is low. Low inflation is slower erosion, not none, and idle reserves are where it quietly adds up.
-- ["Our board will never approve this."](https://rickymamansandbox.github.io/myths/board-will-never-approve/): Boards do not reject Bitcoin; they reject unclear risk. A short decision paper with limits, custody, accounting and an exit rule answers most of what a board asks.
-- ["It's too volatile for a company treasury."](https://rickymamansandbox.github.io/myths/too-volatile-for-treasury/): Volatility is real, and it is a reason to size the position, not to ignore the asset. The sensible response is a capped allocation, a long time horizon and written limits.
-- ["Gold is the safer hedge."](https://rickymamansandbox.github.io/myths/gold-is-the-safer-hedge/): Gold has the longest track record as a store of value, and for that reason it is hard to beat. Bitcoin is not a replacement; it differs on supply, portability and verification, and the sensible comparison is what each protects you from.
-- ["We can't audit or account for it."](https://rickymamansandbox.github.io/myths/cannot-audit-or-account/): Companies already audit and report Bitcoin holdings. The work is in valuation, proof of ownership and disclosure, and accounting standards now cover it directly in several jurisdictions.
-- ["Regulators won't allow companies to hold it."](https://rickymamansandbox.github.io/myths/regulators-will-not-allow/): In most markets a company may hold Bitcoin; the rules usually target the platforms that trade and store it. Because rules differ by country and change often, the right step is a checklist for your own lawyer, not a yes or no.
-- ["Bitcoin gets hacked."](https://rickymamansandbox.github.io/myths/bitcoin-gets-hacked/): The Bitcoin network itself has not been broken. The losses people read about came from exchanges, wallets and people, which is why custody design matters more than the technology.
-- ["If we lose the keys, it's gone."](https://rickymamansandbox.github.io/myths/lose-the-keys-gone/): This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.
-- ["Bitcoin wastes energy."](https://rickymamansandbox.github.io/myths/bitcoin-wastes-energy/): Bitcoin mining uses a lot of electricity by design, because that cost is what secures the network. Whether it is waste depends on the energy source and on what you compare it with, and both are worth looking at with real numbers.
+- ["It's too late; Bitcoin is a bubble."](https://bahtera.asia/myths/too-late-bubble/): Nobody can say whether today's price is too high, and a company does not need to. The useful question is what role a small, capped position plays, and what waiting costs.
+- ["Inflation is under control; our cash is fine."](https://bahtera.asia/myths/inflation-under-control/): Cash that sits still loses purchasing power even when inflation is low and stable. The balance looks the same; what it buys does not. A policy decides how much idle cash is worth protecting.
+- ["Our board will never approve this."](https://bahtera.asia/myths/board-will-never-approve/): Boards approve clear policy, defined limits and named owners, not enthusiasm. If every question a director might ask has a written answer, the proposal becomes ordinary governance.
+- ["It's too volatile for a company treasury."](https://bahtera.asia/myths/too-volatile-for-treasury/): Volatility is real, and it is a reason to size the position, not to ignore the asset. The sensible response is a capped allocation, a long time horizon and written limits.
+- ["Gold is the safer hedge."](https://bahtera.asia/myths/gold-is-the-safer-hedge/): Gold has the longer record. Bitcoin has a fixed supply schedule and easy verification. They differ on supply, portability, verification and custody, so compare them property by property.
+- ["We can't audit or account for it."](https://bahtera.asia/myths/cannot-audit-or-account/): Companies already account for and audit Bitcoin. The real questions are valuation, custody evidence and disclosure, and your auditor answers them under the standards that apply to you.
+- ["Regulators won't allow companies to hold it."](https://bahtera.asia/myths/regulators-will-not-allow/): Rules differ by country and they change. The useful step is a checklist for your own lawyer, not a yes or no from anyone who does not know your jurisdiction.
+- ["Bitcoin gets hacked."](https://bahtera.asia/myths/bitcoin-gets-hacked/): The network and the places people keep Bitcoin are different risks. Most headline losses come from exchanges, devices and bad process, not from the protocol. Custody design is the answer.
+- ["If we lose the keys, it's gone."](https://bahtera.asia/myths/lose-the-keys-gone/): True when one person holds one key. A signing quorum, tested backups and written roles make a single loss survivable. The process matters more than the tool.
+- ["Bitcoin wastes energy."](https://bahtera.asia/myths/bitcoin-wastes-energy/): Mining converts electricity into a cost that protects the ledger. Whether that is worth it is a fair debate. Use measured data and the sources of energy, not slogans.
 
 ## News
 
-- [Before the treasury conversation, write the brief.](https://rickymamansandbox.github.io/blog/preparing-the-treasury-conversation/): A useful internal discussion starts with a shared question, a clear purpose, and the right people in the room.
-- [Make room for better questions.](https://rickymamansandbox.github.io/blog/planning-a-team-workshop/): A practical structure for a team learning session that ends with useful next steps.
-- [A process is only as clear as its handover.](https://rickymamansandbox.github.io/blog/documenting-operational-responsibilities/): How a simple responsibility map can make implementation discussions more concrete.
+- [Before the treasury conversation, write the brief.](https://bahtera.asia/blog/preparing-the-treasury-conversation/): A useful internal discussion starts with a shared question, a clear purpose, and the right people in the room.
+- [Make room for better questions.](https://bahtera.asia/blog/planning-a-team-workshop/): A practical structure for a team learning session that ends with useful next steps.
+- [A process is only as clear as its handover.](https://bahtera.asia/blog/documenting-operational-responsibilities/): How a simple responsibility map can make implementation discussions more concrete.
 
 ## Optional
 
-- [Atom feed](https://rickymamansandbox.github.io/feed.xml)
-- [Sitemap](https://rickymamansandbox.github.io/sitemap.xml)
+- [Atom feed](https://bahtera.asia/feed.xml)
+- [Sitemap](https://bahtera.asia/sitemap.xml)

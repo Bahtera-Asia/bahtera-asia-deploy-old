@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Bahtera news</title>
   <subtitle>Bahtera is a Bitcoin treasury consultancy for companies and leaders across Asia, including Indonesia, Malaysia, Singapore, India and the Philippines, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.</subtitle>
-  <link href="https://rickymamansandbox.github.io/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://rickymamansandbox.github.io/blog/" rel="alternate" type="text/html"/>
-  <id>https://rickymamansandbox.github.io/feed.xml</id>
-  <updated>2026-10-22T08:52:27+07:00</updated>
-  <author><name>Bahtera</name><uri>https://rickymamansandbox.github.io/</uri></author>
-  <icon>https://rickymamansandbox.github.io/images/logo/logo-square.png</icon>
+  <link href="https://bahtera.asia/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://bahtera.asia/blog/" rel="alternate" type="text/html"/>
+  <id>https://bahtera.asia/feed.xml</id>
+  <updated>2026-10-29T00:19:26+07:00</updated>
+  <author><name>Bahtera</name><uri>https://bahtera.asia/</uri></author>
+  <icon>https://bahtera.asia/images/logo/logo-square.png</icon>
   <entry>
     <title>Before the treasury conversation, write the brief.</title>
-    <link href="https://rickymamansandbox.github.io/blog/preparing-the-treasury-conversation/" rel="alternate" type="text/html"/>
-    <id>https://rickymamansandbox.github.io/blog/preparing-the-treasury-conversation/</id>
+    <link href="https://bahtera.asia/blog/preparing-the-treasury-conversation/" rel="alternate" type="text/html"/>
+    <id>https://bahtera.asia/blog/preparing-the-treasury-conversation/</id>
     <published>2026-09-28T00:00:00+07:00</published>
     <updated>2026-09-28T00:00:00+07:00</updated>
     <category term="Leadership"/>
@@ -45,8 +45,8 @@
   </entry>
   <entry>
     <title>Make room for better questions.</title>
-    <link href="https://rickymamansandbox.github.io/blog/planning-a-team-workshop/" rel="alternate" type="text/html"/>
-    <id>https://rickymamansandbox.github.io/blog/planning-a-team-workshop/</id>
+    <link href="https://bahtera.asia/blog/planning-a-team-workshop/" rel="alternate" type="text/html"/>
+    <id>https://bahtera.asia/blog/planning-a-team-workshop/</id>
     <published>2026-09-28T00:00:00+07:00</published>
     <updated>2026-09-28T00:00:00+07:00</updated>
     <category term="Education"/>
@@ -84,8 +84,8 @@
   </entry>
   <entry>
     <title>A process is only as clear as its handover.</title>
-    <link href="https://rickymamansandbox.github.io/blog/documenting-operational-responsibilities/" rel="alternate" type="text/html"/>
-    <id>https://rickymamansandbox.github.io/blog/documenting-operational-responsibilities/</id>
+    <link href="https://bahtera.asia/blog/documenting-operational-responsibilities/" rel="alternate" type="text/html"/>
+    <id>https://bahtera.asia/blog/documenting-operational-responsibilities/</id>
     <published>2026-09-28T00:00:00+07:00</published>
     <updated>2026-09-28T00:00:00+07:00</updated>
     <category term="Operations"/>

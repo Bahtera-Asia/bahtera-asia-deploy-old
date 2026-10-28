@@ -1,132 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rickymamansandbox.github.io/about/</loc>
+    <loc>https://bahtera.asia/about/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/blog/</loc>
+    <loc>https://bahtera.asia/blog/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/contact/</loc>
+    <loc>https://bahtera.asia/contact/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/guides/</loc>
+    <loc>https://bahtera.asia/guides/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/</loc>
+    <loc>https://bahtera.asia/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/</loc>
+    <loc>https://bahtera.asia/myths/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/services/</loc>
+    <loc>https://bahtera.asia/services/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/team/</loc>
+    <loc>https://bahtera.asia/team/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/blog/preparing-the-treasury-conversation/</loc>
+    <loc>https://bahtera.asia/blog/preparing-the-treasury-conversation/</loc>
     <lastmod>2026-09-28T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/blog/planning-a-team-workshop/</loc>
+    <loc>https://bahtera.asia/blog/planning-a-team-workshop/</loc>
     <lastmod>2026-09-28T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/blog/documenting-operational-responsibilities/</loc>
+    <loc>https://bahtera.asia/blog/documenting-operational-responsibilities/</loc>
     <lastmod>2026-09-28T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/guides/treasury-policy/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/guides/treasury-policy/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/guides/accounting-and-audit/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/guides/accounting-and-audit/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/guides/board-approval/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/guides/board-approval/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/guides/leadership-session/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/guides/leadership-session/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/guides/custody-options/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/guides/custody-options/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/too-late-bubble/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/too-late-bubble/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/inflation-under-control/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/inflation-under-control/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/board-will-never-approve/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/board-will-never-approve/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/too-volatile-for-treasury/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/too-volatile-for-treasury/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/gold-is-the-safer-hedge/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/gold-is-the-safer-hedge/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/cannot-audit-or-account/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/cannot-audit-or-account/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/regulators-will-not-allow/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/regulators-will-not-allow/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/bitcoin-gets-hacked/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/bitcoin-gets-hacked/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/lose-the-keys-gone/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/lose-the-keys-gone/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/myths/bitcoin-wastes-energy/</loc>
-    <lastmod>2026-10-21T00:00:00+07:00</lastmod>
+    <loc>https://bahtera.asia/myths/bitcoin-wastes-energy/</loc>
+    <lastmod>2026-10-29T00:00:00+07:00</lastmod>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/services/policy_design/</loc>
+    <loc>https://bahtera.asia/services/policy_design/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/services/custody_architecture/</loc>
+    <loc>https://bahtera.asia/services/custody_architecture/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/services/accounting_audit/</loc>
+    <loc>https://bahtera.asia/services/accounting_audit/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/services/regulatory_guidance/</loc>
+    <loc>https://bahtera.asia/services/regulatory_guidance/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/team/banitama/</loc>
+    <loc>https://bahtera.asia/team/banitama/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/team/ricky/</loc>
+    <loc>https://bahtera.asia/team/ricky/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/team/faizal/</loc>
+    <loc>https://bahtera.asia/team/faizal/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/team/arjun-mehta/</loc>
+    <loc>https://bahtera.asia/team/arjun-mehta/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/team/lim-wei-jie/</loc>
+    <loc>https://bahtera.asia/team/lim-wei-jie/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/team/maria-santos/</loc>
+    <loc>https://bahtera.asia/team/maria-santos/</loc>
   </url>
   <url>
-    <loc>https://rickymamansandbox.github.io/team/tan-mei-ling/</loc>
+    <loc>https://bahtera.asia/team/tan-mei-ling/</loc>
+  </url>
+  <url>
+    <loc>https://bahtera.asia/team/dimas/</loc>
   </url>
 </urlset>
