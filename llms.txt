@@ -31,11 +31,11 @@ Key facts:
 - [Ricky Saif](https://bahtera.asia/team/ricky/): Corporate education
 - [Faizal Abdillah](https://bahtera.asia/team/faizal/): Banking background
 - [Banitama](https://bahtera.asia/team/banitama/): Software development
-- [Dimas](https://bahtera.asia/team/dimas/): Regional partner, Indonesia (regional partner, Indonesia)
-- [Arjun Mehta](https://bahtera.asia/team/arjun-mehta/): Regional partner, India (regional partner, India)
-- [Maria Santos](https://bahtera.asia/team/maria-santos/): Regional partner, Philippines (regional partner, Philippines)
-- [Lim Wei Jie](https://bahtera.asia/team/lim-wei-jie/): Regional partner, Malaysia (regional partner, Malaysia)
-- [Tan Mei Ling](https://bahtera.asia/team/tan-mei-ling/): Regional partner, Singapore (regional partner, Singapore)
+- [Dimas](https://bahtera.asia/partner/dimas/): Regional partner, Indonesia (regional partner, Indonesia)
+- [Arjun Mehta](https://bahtera.asia/partner/arjun-mehta/): Regional partner, India (regional partner, India)
+- [Maria Santos](https://bahtera.asia/partner/maria-santos/): Regional partner, Philippines (regional partner, Philippines)
+- [Lim Wei Jie](https://bahtera.asia/partner/lim-wei-jie/): Regional partner, Malaysia (regional partner, Malaysia)
+- [Tan Mei Ling](https://bahtera.asia/partner/tan-mei-ling/): Regional partner, Singapore (regional partner, Singapore)
 
 ## Guides
 
